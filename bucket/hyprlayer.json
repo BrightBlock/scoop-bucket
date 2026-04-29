@@ -1,16 +1,16 @@
 {
-    "version": "1.4.7",
+    "version": "1.5.0",
     "description": "CLI for managing thoughts for AI coding agents",
     "homepage": "https://github.com/BrightBlock/hyprlayer-cli",
     "license": "MIT",
-    "url": "https://github.com/BrightBlock/hyprlayer-cli/releases/download/v1.4.7/hyprlayer-x86_64-pc-windows-msvc.exe#/hyprlayer.exe",
-    "hash": "8fa6719bc7df1d35b0b07511265a357898ee7802cdc94b009016d4de173198d5",
+    "url": "https://github.com/BrightBlock/hyprlayer-cli/releases/download/v1.5.0/hyprlayer-x86_64-pc-windows-msvc.exe#/hyprlayer.exe",
+    "hash": "bb1ada0898d14101d295d074199d7bf2358e7939b6b0de63c09e19732425276e",
     "bin": "hyprlayer.exe",
     "checkver": {
         "github": "https://github.com/BrightBlock/hyprlayer-cli"
     },
     "autoupdate": {
-        "url": "https://github.com/BrightBlock/hyprlayer-cli/releases/download/v1.4.7/hyprlayer-x86_64-pc-windows-msvc.exe#/hyprlayer.exe",
+        "url": "https://github.com/BrightBlock/hyprlayer-cli/releases/download/v1.5.0/hyprlayer-x86_64-pc-windows-msvc.exe#/hyprlayer.exe",
         "hash": {
             "url": "$url",
             "mode": "download"
